@@ -25,7 +25,7 @@ This project showcases a modern real estate web design with buttery-smooth user 
 
 ```bash
 # Clone the repo
-git clone https://github.com/san/magma-recreate.git
+git clone https://github.com/Sanket3yoProgrammer/Magmaitis.git
 
 # Go into the project folder
 cd magma-recreate
