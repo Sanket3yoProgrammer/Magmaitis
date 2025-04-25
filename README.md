@@ -40,9 +40,10 @@ cd magma-recreate
 Here are some previews of the UI:
 
 ![Homepage Screenshot](screenshot.png)  
+
+> Scroll Animations
 ![Scroll Animation](scroll.gif)
 
-> Store your screenshots inside a `screenshots/` folder in your repo
 
 ## 🌐 Live Demo
 
